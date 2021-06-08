@@ -1,0 +1,3782 @@
+[
+  {
+    "ID": 19132,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-20 17:15:00.000"
+  },
+  {
+    "ID": 19141,
+    "ResidentID": 208,
+    "BGL": 8.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-21 08:00:00.000"
+  },
+  {
+    "ID": 19148,
+    "ResidentID": 208,
+    "BGL": 13.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-21 17:30:00.000"
+  },
+  {
+    "ID": 19151,
+    "ResidentID": 208,
+    "BGL": 12.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-22 08:00:00.000"
+  },
+  {
+    "ID": 19162,
+    "ResidentID": 208,
+    "BGL": 20.4,
+    "Comments": "RN 1 K. Russell informed",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-04-22 10:00:00.000"
+  },
+  {
+    "ID": 19163,
+    "ResidentID": 208,
+    "BGL": 16.6,
+    "Comments": "RN 1 K. Russell informed",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-04-22 12:00:00.000"
+  },
+  {
+    "ID": 19164,
+    "ResidentID": 208,
+    "BGL": 14.8,
+    "Comments": "RN 1 K. Russell informed",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-22 13:00:00.000"
+  },
+  {
+    "ID": 19168,
+    "ResidentID": 208,
+    "BGL": 13.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-22 17:30:00.000"
+  },
+  {
+    "ID": 19169,
+    "ResidentID": 208,
+    "BGL": 11.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-22 21:30:00.000"
+  },
+  {
+    "ID": 19173,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-23 08:00:00.000"
+  },
+  {
+    "ID": 19187,
+    "ResidentID": 208,
+    "BGL": 13.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-23 17:30:00.000"
+  },
+  {
+    "ID": 19188,
+    "ResidentID": 208,
+    "BGL": 20.7,
+    "Comments": "Informed RNDiv1 inc to be retested at 2130",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-04-23 20:00:00.000"
+  },
+  {
+    "ID": 19189,
+    "ResidentID": 208,
+    "BGL": 17.6,
+    "Comments": "NULL",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-04-23 21:30:00.000"
+  },
+  {
+    "ID": 19198,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-24 08:00:00.000"
+  },
+  {
+    "ID": 19207,
+    "ResidentID": 208,
+    "BGL": 10.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-24 17:30:00.000"
+  },
+  {
+    "ID": 19212,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-25 08:00:00.000"
+  },
+  {
+    "ID": 19226,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-25 17:30:00.000"
+  },
+  {
+    "ID": 19232,
+    "ResidentID": 208,
+    "BGL": 7.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-26 08:00:00.000"
+  },
+  {
+    "ID": 19234,
+    "ResidentID": 208,
+    "BGL": 7.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-26 17:30:00.000"
+  },
+  {
+    "ID": 19249,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-27 08:00:00.000"
+  },
+  {
+    "ID": 19257,
+    "ResidentID": 208,
+    "BGL": 8.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-27 17:30:00.000"
+  },
+  {
+    "ID": 19264,
+    "ResidentID": 208,
+    "BGL": 4.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-28 08:00:00.000"
+  },
+  {
+    "ID": 19271,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-28 17:30:00.000"
+  },
+  {
+    "ID": 19278,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-29 08:00:00.000"
+  },
+  {
+    "ID": 19289,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-29 17:30:00.000"
+  },
+  {
+    "ID": 19294,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-30 08:00:00.000"
+  },
+  {
+    "ID": 19308,
+    "ResidentID": 208,
+    "BGL": 4.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-04-30 17:30:00.000"
+  },
+  {
+    "ID": 19310,
+    "ResidentID": 208,
+    "BGL": 3.1,
+    "Comments": "NULL",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-05-01 00:10:00.000"
+  },
+  {
+    "ID": 19311,
+    "ResidentID": 208,
+    "BGL": 3.7,
+    "Comments": "NULL",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-05-01 00:45:00.000"
+  },
+  {
+    "ID": 19312,
+    "ResidentID": 208,
+    "BGL": 10,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-01 01:25:00.000"
+  },
+  {
+    "ID": 19326,
+    "ResidentID": 208,
+    "BGL": 7.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-01 08:00:00.000"
+  },
+  {
+    "ID": 19329,
+    "ResidentID": 208,
+    "BGL": 12.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-01 17:30:00.000"
+  },
+  {
+    "ID": 19334,
+    "ResidentID": 208,
+    "BGL": 7.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-02 08:00:00.000"
+  },
+  {
+    "ID": 19344,
+    "ResidentID": 208,
+    "BGL": 10.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-02 17:30:00.000"
+  },
+  {
+    "ID": 19351,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-03 08:00:00.000"
+  },
+  {
+    "ID": 19354,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-03 17:30:00.000"
+  },
+  {
+    "ID": 19371,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-04 08:00:00.000"
+  },
+  {
+    "ID": 19376,
+    "ResidentID": 208,
+    "BGL": 15.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-04 17:30:00.000"
+  },
+  {
+    "ID": 19389,
+    "ResidentID": 208,
+    "BGL": 8.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-05 08:00:00.000"
+  },
+  {
+    "ID": 19391,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-05 17:30:00.000"
+  },
+  {
+    "ID": 19400,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-06 08:00:00.000"
+  },
+  {
+    "ID": 19410,
+    "ResidentID": 208,
+    "BGL": 14.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-06 17:30:00.000"
+  },
+  {
+    "ID": 19417,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-07 08:00:00.000"
+  },
+  {
+    "ID": 19426,
+    "ResidentID": 208,
+    "BGL": 9.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-07 17:30:00.000"
+  },
+  {
+    "ID": 19441,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-08 08:30:00.000"
+  },
+  {
+    "ID": 19447,
+    "ResidentID": 208,
+    "BGL": 6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-08 17:30:00.000"
+  },
+  {
+    "ID": 19454,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-09 08:30:00.000"
+  },
+  {
+    "ID": 19467,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "Insulin not given (my mistake and incident form filled)",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-09 17:30:00.000"
+  },
+  {
+    "ID": 19475,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-10 07:30:00.000"
+  },
+  {
+    "ID": 19483,
+    "ResidentID": 208,
+    "BGL": 12,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-10 20:00:00.000"
+  },
+  {
+    "ID": 19492,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-11 07:30:00.000"
+  },
+  {
+    "ID": 19496,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-11 17:30:00.000"
+  },
+  {
+    "ID": 19505,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-12 07:30:00.000"
+  },
+  {
+    "ID": 19513,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-12 17:30:00.000"
+  },
+  {
+    "ID": 19517,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-13 08:00:00.000"
+  },
+  {
+    "ID": 19532,
+    "ResidentID": 208,
+    "BGL": 8.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-13 17:30:00.000"
+  },
+  {
+    "ID": 19540,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-14 08:00:00.000"
+  },
+  {
+    "ID": 19547,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-14 17:00:00.000"
+  },
+  {
+    "ID": 19563,
+    "ResidentID": 208,
+    "BGL": 8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-15 08:00:00.000"
+  },
+  {
+    "ID": 19570,
+    "ResidentID": 208,
+    "BGL": 8.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-16 08:30:00.000"
+  },
+  {
+    "ID": 19584,
+    "ResidentID": 208,
+    "BGL": 8.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-16 17:30:00.000"
+  },
+  {
+    "ID": 19589,
+    "ResidentID": 208,
+    "BGL": 9.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-17 08:30:00.000"
+  },
+  {
+    "ID": 19598,
+    "ResidentID": 208,
+    "BGL": 8.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-17 17:00:00.000"
+  },
+  {
+    "ID": 19609,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-18 07:30:00.000"
+  },
+  {
+    "ID": 19616,
+    "ResidentID": 208,
+    "BGL": 7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-18 17:00:00.000"
+  },
+  {
+    "ID": 19628,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-19 08:30:00.000"
+  },
+  {
+    "ID": 19631,
+    "ResidentID": 208,
+    "BGL": 4.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-19 17:10:00.000"
+  },
+  {
+    "ID": 19641,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-20 08:00:00.000"
+  },
+  {
+    "ID": 19648,
+    "ResidentID": 208,
+    "BGL": 15.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-20 17:00:00.000"
+  },
+  {
+    "ID": 19663,
+    "ResidentID": 208,
+    "BGL": 5.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-21 08:15:00.000"
+  },
+  {
+    "ID": 19669,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-21 17:30:00.000"
+  },
+  {
+    "ID": 19680,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-22 08:30:00.000"
+  },
+  {
+    "ID": 19685,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-22 17:15:00.000"
+  },
+  {
+    "ID": 19691,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-23 08:00:00.000"
+  },
+  {
+    "ID": 19705,
+    "ResidentID": 208,
+    "BGL": 7.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-23 17:30:00.000"
+  },
+  {
+    "ID": 19710,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-24 08:00:00.000"
+  },
+  {
+    "ID": 19716,
+    "ResidentID": 208,
+    "BGL": 4.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-24 17:20:00.000"
+  },
+  {
+    "ID": 19720,
+    "ResidentID": 208,
+    "BGL": 15.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-24 19:30:00.000"
+  },
+  {
+    "ID": 19734,
+    "ResidentID": 208,
+    "BGL": 2.6,
+    "Comments": "Jelly bean given and BGL retaken",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-05-25 08:00:00.000"
+  },
+  {
+    "ID": 19735,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-25 08:30:00.000"
+  },
+  {
+    "ID": 19740,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-25 17:15:00.000"
+  },
+  {
+    "ID": 19747,
+    "ResidentID": 208,
+    "BGL": 9.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-26 08:30:00.000"
+  },
+  {
+    "ID": 19755,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-26 17:15:00.000"
+  },
+  {
+    "ID": 19761,
+    "ResidentID": 208,
+    "BGL": 5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-27 08:15:00.000"
+  },
+  {
+    "ID": 19776,
+    "ResidentID": 208,
+    "BGL": 13.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-27 19:00:00.000"
+  },
+  {
+    "ID": 19784,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-28 08:00:00.000"
+  },
+  {
+    "ID": 19794,
+    "ResidentID": 208,
+    "BGL": 9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-28 17:00:00.000"
+  },
+  {
+    "ID": 19811,
+    "ResidentID": 208,
+    "BGL": 11.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-29 18:00:00.000"
+  },
+  {
+    "ID": 19818,
+    "ResidentID": 208,
+    "BGL": 6.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-30 07:30:00.000"
+  },
+  {
+    "ID": 19821,
+    "ResidentID": 208,
+    "BGL": 7.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-30 17:30:00.000"
+  },
+  {
+    "ID": 19829,
+    "ResidentID": 208,
+    "BGL": 9.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-31 08:00:00.000"
+  },
+  {
+    "ID": 19832,
+    "ResidentID": 208,
+    "BGL": 11.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-05-31 17:20:00.000"
+  },
+  {
+    "ID": 19849,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-01 07:30:00.000"
+  },
+  {
+    "ID": 19854,
+    "ResidentID": 208,
+    "BGL": 9.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-01 17:30:00.000"
+  },
+  {
+    "ID": 19859,
+    "ResidentID": 208,
+    "BGL": 4.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-02 08:00:00.000"
+  },
+  {
+    "ID": 19870,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-02 17:30:00.000"
+  },
+  {
+    "ID": 19874,
+    "ResidentID": 208,
+    "BGL": 4.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-03 08:00:00.000"
+  },
+  {
+    "ID": 19885,
+    "ResidentID": 208,
+    "BGL": 9.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-03 19:00:00.000"
+  },
+  {
+    "ID": 19893,
+    "ResidentID": 208,
+    "BGL": 4.4,
+    "Comments": "given sweet biscuit and orange juice -R.N. I.charge informed",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-04 08:15:00.000"
+  },
+  {
+    "ID": 19894,
+    "ResidentID": 208,
+    "BGL": 4.4,
+    "Comments": "R               >                N informed given sweet biscuits and orange juice",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-04 08:16:00.000"
+  },
+  {
+    "ID": 19895,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "R.N informed and administered insulin",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-04 08:45:00.000"
+  },
+  {
+    "ID": 19902,
+    "ResidentID": 208,
+    "BGL": 14.1,
+    "Comments": "R.N informed as advised Staff to monitor. no noted changed- General well being",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-04 11:45:00.000"
+  },
+  {
+    "ID": 19906,
+    "ResidentID": 208,
+    "BGL": 9.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-04 17:30:00.000"
+  },
+  {
+    "ID": 19914,
+    "ResidentID": 208,
+    "BGL": 6.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-05 08:30:00.000"
+  },
+  {
+    "ID": 19924,
+    "ResidentID": 208,
+    "BGL": 8.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-05 17:15:00.000"
+  },
+  {
+    "ID": 19931,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-06 08:30:00.000"
+  },
+  {
+    "ID": 19944,
+    "ResidentID": 208,
+    "BGL": 10.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-06 17:20:00.000"
+  },
+  {
+    "ID": 19950,
+    "ResidentID": 208,
+    "BGL": 6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-07 08:30:00.000"
+  },
+  {
+    "ID": 19959,
+    "ResidentID": 208,
+    "BGL": 11,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-07 17:30:00.000"
+  },
+  {
+    "ID": 19973,
+    "ResidentID": 208,
+    "BGL": 9.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-08 08:30:00.000"
+  },
+  {
+    "ID": 19979,
+    "ResidentID": 208,
+    "BGL": 9.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-08 17:30:00.000"
+  },
+  {
+    "ID": 19985,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-09 08:30:00.000"
+  },
+  {
+    "ID": 19997,
+    "ResidentID": 208,
+    "BGL": 10.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-09 17:30:00.000"
+  },
+  {
+    "ID": 20002,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-10 08:15:00.000"
+  },
+  {
+    "ID": 20014,
+    "ResidentID": 208,
+    "BGL": 12.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-10 17:30:00.000"
+  },
+  {
+    "ID": 20015,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-11 08:45:00.000"
+  },
+  {
+    "ID": 20029,
+    "ResidentID": 208,
+    "BGL": 9.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-11 17:00:00.000"
+  },
+  {
+    "ID": 20039,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-12 08:30:00.000"
+  },
+  {
+    "ID": 20048,
+    "ResidentID": 208,
+    "BGL": 8.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-12 17:30:00.000"
+  },
+  {
+    "ID": 20054,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-13 08:30:00.000"
+  },
+  {
+    "ID": 20067,
+    "ResidentID": 208,
+    "BGL": 8.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-13 17:30:00.000"
+  },
+  {
+    "ID": 20073,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-14 08:30:00.000"
+  },
+  {
+    "ID": 20080,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-14 17:30:00.000"
+  },
+  {
+    "ID": 20094,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-15 08:30:00.000"
+  },
+  {
+    "ID": 20099,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-15 17:30:00.000"
+  },
+  {
+    "ID": 20109,
+    "ResidentID": 208,
+    "BGL": 4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-16 08:30:00.000"
+  },
+  {
+    "ID": 20119,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-16 17:30:00.000"
+  },
+  {
+    "ID": 20127,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-17 08:30:00.000"
+  },
+  {
+    "ID": 20133,
+    "ResidentID": 208,
+    "BGL": 7.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-17 17:25:00.000"
+  },
+  {
+    "ID": 20139,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-18 08:30:00.000"
+  },
+  {
+    "ID": 20153,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-18 17:30:00.000"
+  },
+  {
+    "ID": 20163,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-19 08:00:00.000"
+  },
+  {
+    "ID": 20173,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-19 17:30:00.000"
+  },
+  {
+    "ID": 20180,
+    "ResidentID": 208,
+    "BGL": 9,
+    "Comments": "already started eating.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-20 08:30:00.000"
+  },
+  {
+    "ID": 20192,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-20 17:30:00.000"
+  },
+  {
+    "ID": 20201,
+    "ResidentID": 208,
+    "BGL": 7.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-21 08:00:00.000"
+  },
+  {
+    "ID": 20204,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-21 17:30:00.000"
+  },
+  {
+    "ID": 20221,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-22 08:30:00.000"
+  },
+  {
+    "ID": 20227,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-22 17:30:00.000"
+  },
+  {
+    "ID": 20234,
+    "ResidentID": 208,
+    "BGL": 5.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-23 08:30:00.000"
+  },
+  {
+    "ID": 20244,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-23 17:30:00.000"
+  },
+  {
+    "ID": 20251,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-24 08:15:00.000"
+  },
+  {
+    "ID": 20262,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-24 17:30:00.000"
+  },
+  {
+    "ID": 20266,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-25 08:30:00.000"
+  },
+  {
+    "ID": 20284,
+    "ResidentID": 208,
+    "BGL": 10.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-25 17:00:00.000"
+  },
+  {
+    "ID": 20295,
+    "ResidentID": 208,
+    "BGL": 8.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-26 08:15:00.000"
+  },
+  {
+    "ID": 20301,
+    "ResidentID": 208,
+    "BGL": 9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-26 17:30:00.000"
+  },
+  {
+    "ID": 20307,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-27 08:00:00.000"
+  },
+  {
+    "ID": 20317,
+    "ResidentID": 208,
+    "BGL": 10.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-27 17:30:00.000"
+  },
+  {
+    "ID": 20322,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-28 08:00:00.000"
+  },
+  {
+    "ID": 20333,
+    "ResidentID": 208,
+    "BGL": 11.6,
+    "Comments": "Reading at 1730 3.3mmol Reported to RN.  BGL 2 hours after evening meal 11.6mmol. Insulin administered at 2000",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-28 20:00:00.000"
+  },
+  {
+    "ID": 20337,
+    "ResidentID": 208,
+    "BGL": 5.6,
+    "Comments": "Instructed to recheck at 0000 hrs. glass of apple juice given",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-29 00:00:00.000"
+  },
+  {
+    "ID": 20346,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-29 09:00:00.000"
+  },
+  {
+    "ID": 20362,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-29 17:30:00.000"
+  },
+  {
+    "ID": 20359,
+    "ResidentID": 208,
+    "BGL": 5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-30 08:30:00.000"
+  },
+  {
+    "ID": 20366,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-06-30 17:30:00.000"
+  },
+  {
+    "ID": 20374,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-01 08:00:00.000"
+  },
+  {
+    "ID": 20379,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-01 17:30:00.000"
+  },
+  {
+    "ID": 20392,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "given a cup of apple juice",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-02 08:00:00.000"
+  },
+  {
+    "ID": 20402,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-02 17:30:00.000"
+  },
+  {
+    "ID": 20409,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-03 08:30:00.000"
+  },
+  {
+    "ID": 20420,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-03 17:30:00.000"
+  },
+  {
+    "ID": 20433,
+    "ResidentID": 208,
+    "BGL": 5.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-04 08:00:00.000"
+  },
+  {
+    "ID": 20440,
+    "ResidentID": 208,
+    "BGL": 13.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-04 17:30:00.000"
+  },
+  {
+    "ID": 20446,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-05 08:00:00.000"
+  },
+  {
+    "ID": 20450,
+    "ResidentID": 208,
+    "BGL": 9.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-05 17:30:00.000"
+  },
+  {
+    "ID": 20467,
+    "ResidentID": 208,
+    "BGL": 10.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-06 08:30:00.000"
+  },
+  {
+    "ID": 20475,
+    "ResidentID": 208,
+    "BGL": 8.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-06 17:30:00.000"
+  },
+  {
+    "ID": 20482,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-07 08:00:00.000"
+  },
+  {
+    "ID": 20493,
+    "ResidentID": 208,
+    "BGL": 8.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-07 17:30:00.000"
+  },
+  {
+    "ID": 20495,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-08 08:15:00.000"
+  },
+  {
+    "ID": 20509,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-08 17:30:00.000"
+  },
+  {
+    "ID": 20514,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-09 08:45:00.000"
+  },
+  {
+    "ID": 20530,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-09 17:30:00.000"
+  },
+  {
+    "ID": 20542,
+    "ResidentID": 208,
+    "BGL": 5.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-10 08:00:00.000"
+  },
+  {
+    "ID": 20548,
+    "ResidentID": 208,
+    "BGL": 8.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-10 17:30:00.000"
+  },
+  {
+    "ID": 20555,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-11 08:00:00.000"
+  },
+  {
+    "ID": 20567,
+    "ResidentID": 208,
+    "BGL": 10.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-11 17:30:00.000"
+  },
+  {
+    "ID": 20576,
+    "ResidentID": 208,
+    "BGL": 7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-12 08:30:00.000"
+  },
+  {
+    "ID": 20578,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-12 17:30:00.000"
+  },
+  {
+    "ID": 20586,
+    "ResidentID": 208,
+    "BGL": 6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-13 08:00:00.000"
+  },
+  {
+    "ID": 20602,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-13 17:30:00.000"
+  },
+  {
+    "ID": 20611,
+    "ResidentID": 208,
+    "BGL": 6.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-14 08:00:00.000"
+  },
+  {
+    "ID": 20620,
+    "ResidentID": 208,
+    "BGL": 7.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-14 17:30:00.000"
+  },
+  {
+    "ID": 20631,
+    "ResidentID": 208,
+    "BGL": 4.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-15 08:15:00.000"
+  },
+  {
+    "ID": 20634,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-15 17:30:00.000"
+  },
+  {
+    "ID": 20643,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-16 08:00:00.000"
+  },
+  {
+    "ID": 20668,
+    "ResidentID": 208,
+    "BGL": 4.3,
+    "Comments": "Ate breakfast immediately after BGL taken.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-17 08:30:00.000"
+  },
+  {
+    "ID": 20676,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-18 08:30:00.000"
+  },
+  {
+    "ID": 20691,
+    "ResidentID": 208,
+    "BGL": 5.6,
+    "Comments": "Insulin with held until post dinner. BGL at 1930 10.8 insulin administered at 1930",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-18 17:30:00.000"
+  },
+  {
+    "ID": 20698,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-19 08:15:00.000"
+  },
+  {
+    "ID": 20702,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-19 17:30:00.000"
+  },
+  {
+    "ID": 20716,
+    "ResidentID": 208,
+    "BGL": 8.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-20 08:30:00.000"
+  },
+  {
+    "ID": 20727,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-20 17:30:00.000"
+  },
+  {
+    "ID": 20731,
+    "ResidentID": 208,
+    "BGL": 4.2,
+    "Comments": "Ate breakfast immediately after BGL taken.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-21 08:30:00.000"
+  },
+  {
+    "ID": 20743,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-21 17:30:00.000"
+  },
+  {
+    "ID": 20745,
+    "ResidentID": 208,
+    "BGL": 4.3,
+    "Comments": "apple juice with breakfast informed R.N",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-22 08:30:00.000"
+  },
+  {
+    "ID": 20746,
+    "ResidentID": 208,
+    "BGL": 10.1,
+    "Comments": "insulin administered by R.N",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-22 09:30:00.000"
+  },
+  {
+    "ID": 20758,
+    "ResidentID": 208,
+    "BGL": 10.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-22 17:30:00.000"
+  },
+  {
+    "ID": 20764,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-23 08:45:00.000"
+  },
+  {
+    "ID": 20778,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-23 17:00:00.000"
+  },
+  {
+    "ID": 20792,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-24 08:00:00.000"
+  },
+  {
+    "ID": 20796,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-24 17:30:00.000"
+  },
+  {
+    "ID": 20801,
+    "ResidentID": 208,
+    "BGL": 4.4,
+    "Comments": "Insulin given after breakfast.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-25 08:30:00.000"
+  },
+  {
+    "ID": 20811,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "Insulin given after evening meal",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-25 17:30:00.000"
+  },
+  {
+    "ID": 20816,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-26 08:30:00.000"
+  },
+  {
+    "ID": 20824,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-26 17:30:00.000"
+  },
+  {
+    "ID": 20834,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-27 08:30:00.000"
+  },
+  {
+    "ID": 20842,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-27 17:30:00.000"
+  },
+  {
+    "ID": 20854,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-28 08:30:00.000"
+  },
+  {
+    "ID": 20860,
+    "ResidentID": 208,
+    "BGL": 4.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-28 17:30:00.000"
+  },
+  {
+    "ID": 20871,
+    "ResidentID": 208,
+    "BGL": 4.8,
+    "Comments": "waited till after breakfast to give insulin",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-29 08:45:00.000"
+  },
+  {
+    "ID": 20872,
+    "ResidentID": 208,
+    "BGL": 10.3,
+    "Comments": "insulin administered after result at 0930",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-29 09:30:00.000"
+  },
+  {
+    "ID": 20876,
+    "ResidentID": 208,
+    "BGL": 4.8,
+    "Comments": "Insulin to be administered post meal after recheck.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-29 17:15:00.000"
+  },
+  {
+    "ID": 20880,
+    "ResidentID": 208,
+    "BGL": 6.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-29 18:45:00.000"
+  },
+  {
+    "ID": 20889,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-30 08:30:00.000"
+  },
+  {
+    "ID": 20898,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-30 17:30:00.000"
+  },
+  {
+    "ID": 20907,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-31 08:30:00.000"
+  },
+  {
+    "ID": 20916,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-07-31 17:30:00.000"
+  },
+  {
+    "ID": 20922,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-01 08:00:00.000"
+  },
+  {
+    "ID": 20930,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-01 17:00:00.000"
+  },
+  {
+    "ID": 20934,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-02 08:30:00.000"
+  },
+  {
+    "ID": 20959,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-03 08:30:00.000"
+  },
+  {
+    "ID": 20974,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-04 08:30:00.000"
+  },
+  {
+    "ID": 20977,
+    "ResidentID": 208,
+    "BGL": 5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-04 17:15:00.000"
+  },
+  {
+    "ID": 20984,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-05 08:30:00.000"
+  },
+  {
+    "ID": 21001,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-05 17:30:00.000"
+  },
+  {
+    "ID": 21009,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-06 09:30:00.000"
+  },
+  {
+    "ID": 21020,
+    "ResidentID": 208,
+    "BGL": 9.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-06 17:00:00.000"
+  },
+  {
+    "ID": 21033,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-07 08:30:00.000"
+  },
+  {
+    "ID": 21040,
+    "ResidentID": 208,
+    "BGL": 11.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-07 17:30:00.000"
+  },
+  {
+    "ID": 21049,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-08 08:30:00.000"
+  },
+  {
+    "ID": 21059,
+    "ResidentID": 208,
+    "BGL": 8.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-08 17:30:00.000"
+  },
+  {
+    "ID": 21065,
+    "ResidentID": 208,
+    "BGL": 7.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-09 08:00:00.000"
+  },
+  {
+    "ID": 21078,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-09 17:30:00.000"
+  },
+  {
+    "ID": 21088,
+    "ResidentID": 208,
+    "BGL": 8.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-10 08:00:00.000"
+  },
+  {
+    "ID": 21099,
+    "ResidentID": 208,
+    "BGL": 9.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-10 17:15:00.000"
+  },
+  {
+    "ID": 21108,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-11 08:00:00.000"
+  },
+  {
+    "ID": 21115,
+    "ResidentID": 208,
+    "BGL": 7.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-11 17:15:00.000"
+  },
+  {
+    "ID": 21131,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-12 08:30:00.000"
+  },
+  {
+    "ID": 21136,
+    "ResidentID": 208,
+    "BGL": 10.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-12 17:30:00.000"
+  },
+  {
+    "ID": 21153,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-13 08:30:00.000"
+  },
+  {
+    "ID": 21161,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-13 17:30:00.000"
+  },
+  {
+    "ID": 21171,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-14 08:30:00.000"
+  },
+  {
+    "ID": 21180,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-14 17:30:00.000"
+  },
+  {
+    "ID": 21188,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-15 08:30:00.000"
+  },
+  {
+    "ID": 21199,
+    "ResidentID": 208,
+    "BGL": 9.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-15 17:30:00.000"
+  },
+  {
+    "ID": 21207,
+    "ResidentID": 208,
+    "BGL": 6.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-16 08:30:00.000"
+  },
+  {
+    "ID": 21209,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-16 17:25:00.000"
+  },
+  {
+    "ID": 21226,
+    "ResidentID": 208,
+    "BGL": 6.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-17 08:30:00.000"
+  },
+  {
+    "ID": 21229,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-17 17:30:00.000"
+  },
+  {
+    "ID": 21234,
+    "ResidentID": 208,
+    "BGL": 4.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-18 08:00:00.000"
+  },
+  {
+    "ID": 21244,
+    "ResidentID": 208,
+    "BGL": 13.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-18 17:30:00.000"
+  },
+  {
+    "ID": 21256,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-19 08:20:00.000"
+  },
+  {
+    "ID": 21263,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-19 17:30:00.000"
+  },
+  {
+    "ID": 21273,
+    "ResidentID": 208,
+    "BGL": 12.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-20 08:30:00.000"
+  },
+  {
+    "ID": 21279,
+    "ResidentID": 208,
+    "BGL": 4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-20 17:00:00.000"
+  },
+  {
+    "ID": 21293,
+    "ResidentID": 208,
+    "BGL": 7.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-21 08:30:00.000"
+  },
+  {
+    "ID": 21297,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-21 17:30:00.000"
+  },
+  {
+    "ID": 21302,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-22 07:30:00.000"
+  },
+  {
+    "ID": 21313,
+    "ResidentID": 208,
+    "BGL": 9.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-22 17:30:00.000"
+  },
+  {
+    "ID": 21318,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-23 08:30:00.000"
+  },
+  {
+    "ID": 21331,
+    "ResidentID": 208,
+    "BGL": 8.2,
+    "Comments": "BGL taken and insulin administered at 1900 as per A. Byrne request",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-23 19:00:00.000"
+  },
+  {
+    "ID": 21336,
+    "ResidentID": 208,
+    "BGL": 4.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-24 08:30:00.000"
+  },
+  {
+    "ID": 21345,
+    "ResidentID": 208,
+    "BGL": 12.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-24 17:30:00.000"
+  },
+  {
+    "ID": 21356,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-25 08:00:00.000"
+  },
+  {
+    "ID": 21362,
+    "ResidentID": 208,
+    "BGL": 12.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-25 17:30:00.000"
+  },
+  {
+    "ID": 21365,
+    "ResidentID": 208,
+    "BGL": 5.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-26 08:45:00.000"
+  },
+  {
+    "ID": 21381,
+    "ResidentID": 208,
+    "BGL": 10.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-26 17:30:00.000"
+  },
+  {
+    "ID": 21394,
+    "ResidentID": 208,
+    "BGL": 5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-27 08:15:00.000"
+  },
+  {
+    "ID": 21400,
+    "ResidentID": 208,
+    "BGL": 11.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-27 17:30:00.000"
+  },
+  {
+    "ID": 21412,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-28 08:30:00.000"
+  },
+  {
+    "ID": 21422,
+    "ResidentID": 208,
+    "BGL": 5,
+    "Comments": "Insulin administered after breakfast.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-29 08:30:00.000"
+  },
+  {
+    "ID": 21434,
+    "ResidentID": 208,
+    "BGL": 11.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-29 17:30:00.000"
+  },
+  {
+    "ID": 21442,
+    "ResidentID": 208,
+    "BGL": 9.5,
+    "Comments": "had commenced eating before BGL taken",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-30 08:30:00.000"
+  },
+  {
+    "ID": 21449,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "Insulin administered after dinner",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-30 17:30:00.000"
+  },
+  {
+    "ID": 21466,
+    "ResidentID": 208,
+    "BGL": 8.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-31 08:30:00.000"
+  },
+  {
+    "ID": 21467,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-08-31 19:00:00.000"
+  },
+  {
+    "ID": 21474,
+    "ResidentID": 208,
+    "BGL": 4.6,
+    "Comments": "To be retaken after breakfast.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-01 08:45:00.000"
+  },
+  {
+    "ID": 21475,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "Insulin administered after breakfast due to low reading.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-01 09:30:00.000"
+  },
+  {
+    "ID": 21485,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-01 17:15:00.000"
+  },
+  {
+    "ID": 21490,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-02 08:15:00.000"
+  },
+  {
+    "ID": 21517,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-03 08:45:00.000"
+  },
+  {
+    "ID": 21519,
+    "ResidentID": 208,
+    "BGL": 12.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-03 17:00:00.000"
+  },
+  {
+    "ID": 21529,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-04 08:30:00.000"
+  },
+  {
+    "ID": 21536,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-04 17:30:00.000"
+  },
+  {
+    "ID": 21541,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "Insulin administered after breakfast",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-05 08:30:00.000"
+  },
+  {
+    "ID": 21553,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-05 17:00:00.000"
+  },
+  {
+    "ID": 21560,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-06 08:00:00.000"
+  },
+  {
+    "ID": 21568,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-06 17:30:00.000"
+  },
+  {
+    "ID": 21581,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "Insulin to be administered after breakfast",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-07 08:30:00.000"
+  },
+  {
+    "ID": 21589,
+    "ResidentID": 208,
+    "BGL": 13.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-07 20:00:00.000"
+  },
+  {
+    "ID": 21593,
+    "ResidentID": 208,
+    "BGL": 6.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-08 08:30:00.000"
+  },
+  {
+    "ID": 21601,
+    "ResidentID": 208,
+    "BGL": 10,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-08 17:30:00.000"
+  },
+  {
+    "ID": 21616,
+    "ResidentID": 208,
+    "BGL": 5.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-09 08:45:00.000"
+  },
+  {
+    "ID": 21624,
+    "ResidentID": 208,
+    "BGL": 12.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-09 20:00:00.000"
+  },
+  {
+    "ID": 21633,
+    "ResidentID": 208,
+    "BGL": 8.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-10 08:30:00.000"
+  },
+  {
+    "ID": 21639,
+    "ResidentID": 208,
+    "BGL": 13.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-10 17:30:00.000"
+  },
+  {
+    "ID": 21649,
+    "ResidentID": 208,
+    "BGL": 10.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-11 08:30:00.000"
+  },
+  {
+    "ID": 21653,
+    "ResidentID": 208,
+    "BGL": 13.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-11 16:30:00.000"
+  },
+  {
+    "ID": 21663,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "insulin administered after breakfast",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-12 08:30:00.000"
+  },
+  {
+    "ID": 21667,
+    "ResidentID": 208,
+    "BGL": 13.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-12 20:00:00.000"
+  },
+  {
+    "ID": 21673,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-13 08:30:00.000"
+  },
+  {
+    "ID": 21681,
+    "ResidentID": 208,
+    "BGL": 12.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-13 17:30:00.000"
+  },
+  {
+    "ID": 21695,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "insulin administered after breakfast",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-14 08:30:00.000"
+  },
+  {
+    "ID": 21699,
+    "ResidentID": 208,
+    "BGL": 13.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-14 20:00:00.000"
+  },
+  {
+    "ID": 21707,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-15 08:30:00.000"
+  },
+  {
+    "ID": 21710,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-15 17:00:00.000"
+  },
+  {
+    "ID": 21719,
+    "ResidentID": 208,
+    "BGL": 7.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-16 08:45:00.000"
+  },
+  {
+    "ID": 21726,
+    "ResidentID": 208,
+    "BGL": 14.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-16 19:00:00.000"
+  },
+  {
+    "ID": 21739,
+    "ResidentID": 208,
+    "BGL": 7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-17 08:45:00.000"
+  },
+  {
+    "ID": 21744,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-17 17:00:00.000"
+  },
+  {
+    "ID": 21754,
+    "ResidentID": 208,
+    "BGL": 6.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-18 08:30:00.000"
+  },
+  {
+    "ID": 21760,
+    "ResidentID": 208,
+    "BGL": 8.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-18 17:15:00.000"
+  },
+  {
+    "ID": 21774,
+    "ResidentID": 208,
+    "BGL": 5.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-19 08:30:00.000"
+  },
+  {
+    "ID": 21777,
+    "ResidentID": 208,
+    "BGL": 10.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-19 18:00:00.000"
+  },
+  {
+    "ID": 21778,
+    "ResidentID": 208,
+    "BGL": 4.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-20 08:00:00.000"
+  },
+  {
+    "ID": 21793,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-20 17:00:00.000"
+  },
+  {
+    "ID": 21803,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-21 08:30:00.000"
+  },
+  {
+    "ID": 21813,
+    "ResidentID": 208,
+    "BGL": 11.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-21 17:30:00.000"
+  },
+  {
+    "ID": 21818,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-22 08:30:00.000"
+  },
+  {
+    "ID": 21830,
+    "ResidentID": 208,
+    "BGL": 9.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-22 17:15:00.000"
+  },
+  {
+    "ID": 21840,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-23 08:45:00.000"
+  },
+  {
+    "ID": 21843,
+    "ResidentID": 208,
+    "BGL": 14.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-23 17:30:00.000"
+  },
+  {
+    "ID": 21855,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-24 08:45:00.000"
+  },
+  {
+    "ID": 21864,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-24 17:00:00.000"
+  },
+  {
+    "ID": 21881,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-25 08:30:00.000"
+  },
+  {
+    "ID": 21885,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-25 17:00:00.000"
+  },
+  {
+    "ID": 21890,
+    "ResidentID": 208,
+    "BGL": 4.6,
+    "Comments": "Insulin administered after breakfast",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-26 08:30:00.000"
+  },
+  {
+    "ID": 21903,
+    "ResidentID": 208,
+    "BGL": 14.3,
+    "Comments": "late lunch",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-26 17:00:00.000"
+  },
+  {
+    "ID": 21907,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-27 08:30:00.000"
+  },
+  {
+    "ID": 21915,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-27 17:00:00.000"
+  },
+  {
+    "ID": 21924,
+    "ResidentID": 208,
+    "BGL": 5.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-28 08:00:00.000"
+  },
+  {
+    "ID": 21940,
+    "ResidentID": 208,
+    "BGL": 23.9,
+    "Comments": "RN aware. Insulin was given 2000 as stated in the chart.",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-09-28 20:00:00.000"
+  },
+  {
+    "ID": 21941,
+    "ResidentID": 208,
+    "BGL": 19.9,
+    "Comments": "RN notified",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-09-28 21:00:00.000"
+  },
+  {
+    "ID": 21943,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "Re check after high reading at 2100",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-29 01:50:00.000"
+  },
+  {
+    "ID": 21951,
+    "ResidentID": 208,
+    "BGL": 12.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-29 08:30:00.000"
+  },
+  {
+    "ID": 21955,
+    "ResidentID": 208,
+    "BGL": 15.8,
+    "Comments": "Dorothy has been encouraged to drink more water and regularly exercise.",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-29 14:00:00.000"
+  },
+  {
+    "ID": 21962,
+    "ResidentID": 208,
+    "BGL": 13.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-29 17:30:00.000"
+  },
+  {
+    "ID": 21966,
+    "ResidentID": 208,
+    "BGL": 6.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-30 08:45:00.000"
+  },
+  {
+    "ID": 21974,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-09-30 17:00:00.000"
+  },
+  {
+    "ID": 21990,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-01 08:45:00.000"
+  },
+  {
+    "ID": 21995,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-01 17:00:00.000"
+  },
+  {
+    "ID": 21997,
+    "ResidentID": 208,
+    "BGL": 5.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-02 08:30:00.000"
+  },
+  {
+    "ID": 22011,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-02 17:00:00.000"
+  },
+  {
+    "ID": 22015,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-03 08:30:00.000"
+  },
+  {
+    "ID": 22032,
+    "ResidentID": 208,
+    "BGL": 9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-03 17:00:00.000"
+  },
+  {
+    "ID": 22033,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-04 08:00:00.000"
+  },
+  {
+    "ID": 22058,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-05 08:30:00.000"
+  },
+  {
+    "ID": 22073,
+    "ResidentID": 208,
+    "BGL": 9.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-05 17:30:00.000"
+  },
+  {
+    "ID": 22086,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-06 08:30:00.000"
+  },
+  {
+    "ID": 22096,
+    "ResidentID": 208,
+    "BGL": 5.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-06 17:30:00.000"
+  },
+  {
+    "ID": 22104,
+    "ResidentID": 208,
+    "BGL": 6.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-07 08:45:00.000"
+  },
+  {
+    "ID": 22113,
+    "ResidentID": 208,
+    "BGL": 6.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-07 17:30:00.000"
+  },
+  {
+    "ID": 22122,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-08 08:30:00.000"
+  },
+  {
+    "ID": 22143,
+    "ResidentID": 208,
+    "BGL": 15.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-08 17:30:00.000"
+  },
+  {
+    "ID": 22162,
+    "ResidentID": 208,
+    "BGL": 9.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-09 08:30:00.000"
+  },
+  {
+    "ID": 22168,
+    "ResidentID": 208,
+    "BGL": 15.3,
+    "Comments": "resident had 2x heavily iced slices of cake at afternoon tea =",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-09 17:30:00.000"
+  },
+  {
+    "ID": 22179,
+    "ResidentID": 208,
+    "BGL": 8.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-10 08:30:00.000"
+  },
+  {
+    "ID": 22190,
+    "ResidentID": 208,
+    "BGL": 16,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-10 17:30:00.000"
+  },
+  {
+    "ID": 22198,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-11 08:30:00.000"
+  },
+  {
+    "ID": 22204,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-11 17:30:00.000"
+  },
+  {
+    "ID": 22232,
+    "ResidentID": 208,
+    "BGL": 8.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-12 08:30:00.000"
+  },
+  {
+    "ID": 22234,
+    "ResidentID": 208,
+    "BGL": 7.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-12 17:30:00.000"
+  },
+  {
+    "ID": 22244,
+    "ResidentID": 208,
+    "BGL": 6.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-13 08:30:00.000"
+  },
+  {
+    "ID": 22252,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-13 17:30:00.000"
+  },
+  {
+    "ID": 22262,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-14 08:30:00.000"
+  },
+  {
+    "ID": 22276,
+    "ResidentID": 208,
+    "BGL": 16.1,
+    "Comments": "NULL",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-10-14 16:30:00.000"
+  },
+  {
+    "ID": 22301,
+    "ResidentID": 208,
+    "BGL": 9.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-15 08:45:00.000"
+  },
+  {
+    "ID": 22310,
+    "ResidentID": 208,
+    "BGL": 13.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-15 17:00:00.000"
+  },
+  {
+    "ID": 22322,
+    "ResidentID": 208,
+    "BGL": 7.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-16 08:00:00.000"
+  },
+  {
+    "ID": 22339,
+    "ResidentID": 208,
+    "BGL": 7.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-17 08:00:00.000"
+  },
+  {
+    "ID": 22349,
+    "ResidentID": 208,
+    "BGL": 15,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-17 17:20:00.000"
+  },
+  {
+    "ID": 22364,
+    "ResidentID": 208,
+    "BGL": 9.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-18 08:30:00.000"
+  },
+  {
+    "ID": 22375,
+    "ResidentID": 208,
+    "BGL": 9.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-18 17:30:00.000"
+  },
+  {
+    "ID": 22387,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-19 08:30:00.000"
+  },
+  {
+    "ID": 22396,
+    "ResidentID": 208,
+    "BGL": 8.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-19 17:00:00.000"
+  },
+  {
+    "ID": 22405,
+    "ResidentID": 208,
+    "BGL": 6.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-20 08:30:00.000"
+  },
+  {
+    "ID": 22416,
+    "ResidentID": 208,
+    "BGL": 7.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-20 17:30:00.000"
+  },
+  {
+    "ID": 22429,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-21 09:00:00.000"
+  },
+  {
+    "ID": 22432,
+    "ResidentID": 208,
+    "BGL": 11.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-21 17:30:00.000"
+  },
+  {
+    "ID": 22443,
+    "ResidentID": 208,
+    "BGL": 5.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-22 08:00:00.000"
+  },
+  {
+    "ID": 22456,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-22 17:30:00.000"
+  },
+  {
+    "ID": 22463,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-23 08:00:00.000"
+  },
+  {
+    "ID": 22471,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-23 17:30:00.000"
+  },
+  {
+    "ID": 22481,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-24 08:30:00.000"
+  },
+  {
+    "ID": 22333,
+    "ResidentID": 208,
+    "BGL": 11.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-24 17:30:00.000"
+  },
+  {
+    "ID": 22495,
+    "ResidentID": 208,
+    "BGL": 18.7,
+    "Comments": "NULL",
+    "LMO": 1,
+    "ProgressNote": 1,
+    "MonitorDate": "2017-10-24 17:40:00.000"
+  },
+  {
+    "ID": 22500,
+    "ResidentID": 208,
+    "BGL": 7.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-25 08:30:00.000"
+  },
+  {
+    "ID": 22507,
+    "ResidentID": 208,
+    "BGL": 7.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-25 17:30:00.000"
+  },
+  {
+    "ID": 22526,
+    "ResidentID": 208,
+    "BGL": 10.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-26 08:30:00.000"
+  },
+  {
+    "ID": 22532,
+    "ResidentID": 208,
+    "BGL": 8.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-26 17:15:00.000"
+  },
+  {
+    "ID": 22540,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-27 08:15:00.000"
+  },
+  {
+    "ID": 22552,
+    "ResidentID": 208,
+    "BGL": 11.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-27 17:30:00.000"
+  },
+  {
+    "ID": 22558,
+    "ResidentID": 208,
+    "BGL": 9.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-28 08:30:00.000"
+  },
+  {
+    "ID": 22569,
+    "ResidentID": 208,
+    "BGL": 12.3,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-28 17:30:00.000"
+  },
+  {
+    "ID": 22583,
+    "ResidentID": 208,
+    "BGL": 6.7,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-29 08:00:00.000"
+  },
+  {
+    "ID": 22586,
+    "ResidentID": 208,
+    "BGL": 13,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-29 17:00:00.000"
+  },
+  {
+    "ID": 22595,
+    "ResidentID": 208,
+    "BGL": 10.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-30 08:00:00.000"
+  },
+  {
+    "ID": 22603,
+    "ResidentID": 208,
+    "BGL": 11.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-30 17:30:00.000"
+  },
+  {
+    "ID": 22613,
+    "ResidentID": 208,
+    "BGL": 7.5,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-31 08:00:00.000"
+  },
+  {
+    "ID": 22627,
+    "ResidentID": 208,
+    "BGL": 11.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-10-31 17:30:00.000"
+  },
+  {
+    "ID": 22634,
+    "ResidentID": 208,
+    "BGL": 10.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-01 08:30:00.000"
+  },
+  {
+    "ID": 22639,
+    "ResidentID": 208,
+    "BGL": 10.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-01 17:30:00.000"
+  },
+  {
+    "ID": 22662,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-02 08:00:00.000"
+  },
+  {
+    "ID": 22666,
+    "ResidentID": 208,
+    "BGL": 12.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-02 17:30:00.000"
+  },
+  {
+    "ID": 22675,
+    "ResidentID": 208,
+    "BGL": 9.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-03 08:00:00.000"
+  },
+  {
+    "ID": 22691,
+    "ResidentID": 208,
+    "BGL": 12.8,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-03 17:30:00.000"
+  },
+  {
+    "ID": 22699,
+    "ResidentID": 208,
+    "BGL": 9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-04 08:30:00.000"
+  },
+  {
+    "ID": 22716,
+    "ResidentID": 208,
+    "BGL": 12.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-04 17:15:00.000"
+  },
+  {
+    "ID": 22726,
+    "ResidentID": 208,
+    "BGL": 6.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-05 08:00:00.000"
+  },
+  {
+    "ID": 22741,
+    "ResidentID": 208,
+    "BGL": 12.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-05 17:30:00.000"
+  },
+  {
+    "ID": 22755,
+    "ResidentID": 208,
+    "BGL": 10.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-06 08:30:00.000"
+  },
+  {
+    "ID": 22761,
+    "ResidentID": 208,
+    "BGL": 14.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-06 17:30:00.000"
+  },
+  {
+    "ID": 22772,
+    "ResidentID": 208,
+    "BGL": 9.9,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-07 08:00:00.000"
+  },
+  {
+    "ID": 22788,
+    "ResidentID": 208,
+    "BGL": 13.6,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-07 17:30:00.000"
+  },
+  {
+    "ID": 22796,
+    "ResidentID": 208,
+    "BGL": 12.2,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-08 08:00:00.000"
+  },
+  {
+    "ID": 22800,
+    "ResidentID": 208,
+    "BGL": 14,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2017-11-08 17:30:00.000"
+  },
+  {
+    "ID": 22807,
+    "ResidentID": 208,
+    "BGL": 9.1,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2018-06-04 06:00:00.000"
+  },
+  {
+    "ID": 22808,
+    "ResidentID": 208,
+    "BGL": 8.4,
+    "Comments": "NULL",
+    "LMO": 0,
+    "ProgressNote": 0,
+    "MonitorDate": "2018-06-04 08:00:00.000"
+  }
+]
