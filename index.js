@@ -338,32 +338,17 @@ let barChart2 = new Chart( chart2,
   options: {}
 } );
 
-
-
-let nbdemande_chart = document.getElementById("nbdemande_chart");
-let nbdemande_line = new Chart( nbdemande_chart,
-{
+let chart10 = document.getElementById("chart10").getContext('2d');
+let linechart10 = new Chart( chart10, {
+  type:'line',
+  data: {
     labels: ["January", "February", "March", "April", "May", "June", "July"],
-    datasets: [
-      {
-        label: "My First dataset",
-        fillColor: "rgba(220,220,220,0.2)",
-        strokeColor: "rgba(220,220,220,1)",
-        pointColor: "rgba(220,220,220,1)",
-        pointStrokeColor: "#fff",
-        pointHighlightFill: "#fff",
-        pointHighlightStroke: "rgba(220,220,220,1)",
-        data: [65, 59, 80, 81, 56, 55, 40]
-      },
-      {
-        label: "My Second dataset",
-        fillColor: "rgba(151,187,205,0.2)",
-        strokeColor: "rgba(151,187,205,1)",
-        pointColor: "rgba(151,187,205,1)",
-        pointStrokeColor: "#fff",
-        pointHighlightFill: "#fff",
-        pointHighlightStroke: "rgba(151,187,205,1)",
-        data: [28, 48, 40, 19, 86, 27, 90]
-      }
-    ]
-  });
+    datasets: [{
+    label: 'Nb de demande en 2020',
+    data: [65, 59, 80, 81, 56, 55, 40],
+    fill: true,
+    borderColor: 'rgb(75, 192, 192)',
+    tension: 0.1
+  }]
+}
+});
