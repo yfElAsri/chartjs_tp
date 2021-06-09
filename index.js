@@ -93,8 +93,8 @@ let horibarchartImp = new Chart(ImpvsExpo, {
   }
 });
 
-let chart12 = document.getElementById('chart12').getContext('2d');
-let piechart12 = new Chart(chart12, {
+let typetc = document.getElementById('typetc').getContext('2d');
+let piechartType = new Chart(typetc, {
   type: 'doughnut',
   data: {
     labels: [
