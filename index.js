@@ -66,30 +66,21 @@ let ImpvsExpo = document.getElementById('ImpvsExpo').getContext('2d');
 let horibarchartImp = new Chart(ImpvsExpo, {
   type: 'bar',
   data: {
-    labels: [
-      'Import',
-      'Export'
-    ],
+    labels: ['Import', 'Export'],
     datasets: [
       {
         axis: 'y',
         label: 'nb de demande',
         data: [1239, 1658],
         fill: false,
-        backgroundColor: [
-          'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)'
-        ],
-        borderColor: [
-          'rgb(255, 99, 132)',
-          'rgb(54, 162, 235)'
-        ],
+        backgroundColor: ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)'],
+        borderColor: ['rgb(255, 99, 132)', 'rgb(54, 162, 235)'],
         borderWidth: 1
       }
     ]
   },
   options: {
-    indexAxis: 'y',
+    indexAxis: 'y'
   }
 });
 
@@ -97,27 +88,23 @@ let typetc = document.getElementById('typetc').getContext('2d');
 let piechartType = new Chart(typetc, {
   type: 'doughnut',
   data: {
-    labels: [
-    '40',
-    '20',
-    '40HC'
-  ],
-    datasets: [{
-    label: 'Type TC',
-    data: [300, 50, 100],
-    backgroundColor: [
-      'rgb(255, 99, 132)',
-      'rgb(54, 162, 235)',
-      'rgb(255, 205, 86)'
-    ],
-    hoverOffset: 4
-  }]
+    labels: ['40', '20', '40HC'],
+    datasets: [
+      {
+        label: 'Type TC',
+        data: [300, 50, 100],
+        backgroundColor: [
+          'rgb(255, 99, 132)',
+          'rgb(54, 162, 235)',
+          'rgb(255, 205, 86)'
+        ],
+        hoverOffset: 4
+      }
+    ]
   }
 });
 
-
 import * as DataSet1 from './data/AU-city-population-2018.json';
-
 
 function strRmv(str, char) {
   while (str.indexOf(char) > -1) str = str.replace(char, '');
@@ -136,12 +123,19 @@ let barChart = new Chart(chart1, {
       {
         label: DataSet1.labels[2],
         data: ds1_pop,
-        backgroundColor: '#AAA',
+        backgroundColor: [
+          'rgba(255, 99, 132, 0.2)',
+          'rgba(255, 159, 64, 0.2)',
+          'rgba(255, 205, 86, 0.2)',
+          'rgba(75, 192, 192, 0.2)',
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(153, 102, 255, 0.2)',
+          'rgba(201, 203, 207, 0.2)'
+        ],
         hoverBackgroundColor: 'red'
       }
     ]
-  },
-  options: {}
+  }
 });
 
 function randPow(n = 10, k = 1.661) {
@@ -183,7 +177,3 @@ let barChart2 = new Chart(chart2, {
   },
   options: {}
 });
-
-
-
-
